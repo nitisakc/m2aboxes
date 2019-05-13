@@ -1,0 +1,17 @@
+[
+	{
+		"index": 0,
+		"type": "thermometer",
+		"sensor": "DS18B20",
+		"pin": 2,
+		"unit": "cm",
+		"enable": false
+	},{
+		"index": 1,
+		"type": "distance",
+		"sensor": "GP2Y0A02YK0F",
+		"pin": "A0",
+		"unit": "cm",
+		"enable": true
+	}
+]
